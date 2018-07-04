@@ -1,0 +1,14 @@
+{
+  "name": "viases_cloud.b2-bmessage-manipulation-gw",
+  "version": "0.0.0",
+  "description": "Viases_Cloud.B2BMessageManipulationGw",
+  "main": "app.js",
+  "author": {
+    "name": "salihy"
+  },
+  "dependencies": {
+    "config": "^1.30.0",
+    "drachtio-sip": "^0.3.5",
+    "drachtio-srf": "^4.3.0"
+  }
+}
