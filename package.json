@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "config": "^1.30.0",
-    "drachtio-sip": "^0.3.5",
     "drachtio-srf": "^4.3.0"
   }
 }
