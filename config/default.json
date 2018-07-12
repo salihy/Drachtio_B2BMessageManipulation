@@ -2,7 +2,7 @@
   "drachtio": {
     "host": "192.168.0.87",
     "port": 9022,
-    "secret": "k0k0r3c"
+    "secret": "cymru"
   },
   "sipservers": [
     {
