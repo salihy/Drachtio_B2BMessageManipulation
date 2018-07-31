@@ -54,6 +54,7 @@ srf.connect(drachtioServer)
 
 
 srf.register((req, res) => {
+    
     res.send(200);
 });
 
